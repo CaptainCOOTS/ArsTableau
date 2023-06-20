@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "yy",
+      "xx"
+    ],
+    "key":
+    {
+      "x":
+      {
+        "item": "ars_nouveau:archwood_planks"
+      },
+      "y":
+      {
+        "tag": "forge:nuggets/gold"
+      }
+    },
+    "result":
+    {
+      "item": "arstableau:archwood_crafting_table",
+      "count": 1
+    }
+  }

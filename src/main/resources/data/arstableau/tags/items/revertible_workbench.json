@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+      "arstableau:archwood_crafting_table",
+      "arstableau:black_archwood_crafting_table",
+      "arstableau:blue_archwood_crafting_table",
+      "arstableau:brown_archwood_crafting_table",
+      "arstableau:cyan_archwood_crafting_table",
+      "arstableau:gray_archwood_crafting_table",
+      "arstableau:green_archwood_crafting_table",
+      "arstableau:lightblue_archwood_crafting_table",
+      "arstableau:light_grayarchwood_crafting_table",
+      "arstableau:lime_archwood_crafting_table",
+      "arstableau:magenta_archwood_crafting_table",
+      "arstableau:orange_archwood_crafting_table",
+      "arstableau:pink_archwood_crafting_table",
+      "arstableau:red_archwood_crafting_table",
+      "arstableau:white_archwood_crafting_table",
+      "arstableau:yellow_archwood_crafting_table"
+    ]
+  }

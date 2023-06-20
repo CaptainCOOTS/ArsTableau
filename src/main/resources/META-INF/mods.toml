@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+
+[[mods]]
+modId="arstableau"
+version="1.19.2"
+displayName="Ars Tableau"
+#logoFile=""
+
+authors='''
+
+P3NG00 = Original creator of the mod for Fabric
+852Duarte = Ported for Forge
+Captain C.O.O.T.S. = Included Ars Nouveau capability
+'''
+
+description='''
+Adds a crafting table that looks straight out of Ars Nouveau.  I edited and reused texture parts from both More Crafting Tables and Ars Nouveau.
+'''
+
+[[dependencies.arstableau]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.arstableau]]
+modId = "ars_nouveau"
+mandatory = true
+versionRange = "[1.19.2-3.15,)"
+ordering = "AFTER"
+side = "BOTH"

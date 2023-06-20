@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "arstableau:revertible_workbench"
+      }
+    ],
+    "result": {
+      "item": "arstableau:archwood_crafting_table"
+    }
+  }
+  

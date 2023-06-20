@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "arstableau:block/green_archwood_crafting_table_front",
+      "up": "arstableau:block/green_archwood_crafting_table_top",
+      "down": "ars_nouveau:block/archwood_planks",
+      "north": "arstableau:block/green_archwood_crafting_table_front",
+      "south": "arstableau:block/green_archwood_crafting_table_side",
+      "west": "arstableau:block/green_archwood_crafting_table_front",
+      "east": "arstableau:block/green_archwood_crafting_table_side"
+    }
+  }

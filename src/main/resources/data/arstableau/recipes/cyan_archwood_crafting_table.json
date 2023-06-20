@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "tag": "arstableau:revertible_workbench"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        }
+    ],
+    "result":
+    {
+      "item": "arstableau:cyan_archwood_crafting_table",
+      "count": 1
+    }
+  }
